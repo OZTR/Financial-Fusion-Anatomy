@@ -14,7 +14,8 @@ BLOCK: 2.71828182846
 )](https://godoc.org/github.com/ethereumproject/go-ethereum)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereumproject/go-ethereum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-###`Copyright © 2019 - OΣR`
+
+## `Copyright © 2019 - OΣR`
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
