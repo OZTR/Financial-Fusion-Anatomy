@@ -15,7 +15,7 @@ BLOCK: 2.71828182846
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereumproject/go-ethereum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
-([` Copyright © 2019 - OΣR `]https://github.com/0ZT/OZT/blob/master/Information)
+[` Copyright © 2019 - OΣR `](https://github.com/0ZT/OZT/blob/master/Information)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
