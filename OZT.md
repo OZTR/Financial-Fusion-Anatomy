@@ -16,8 +16,3 @@ BLOCK: 2.71828182846
 
 
 [` Copyright © 2019 - OΣR `](https://github.com/0ZT/OZT/blob/master/Information)
-
-```
-$ bootnode --genkey=boot.key
-$ bootnode --nodekey=boot.key
-```
