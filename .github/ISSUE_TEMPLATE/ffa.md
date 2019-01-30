@@ -4,7 +4,7 @@ about: Harmonization of equations
 crypto: 'ETC'
 title: 'Fusion'
 labels: '107.9M'
-assignees:"2.71828182846"
+assignees: 2.71828182846
 
 ---
 
