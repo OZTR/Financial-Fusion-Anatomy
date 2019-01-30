@@ -1,10 +1,10 @@
 ---
-name: "#FFA"
-about: Harmonization of equations
-crypto: 'ETC'
-title: 'Fusion'
-labels: '107.9M'
-assignees: 2.71828182846
+NAME: "Fusion"
+ABOUT: Harmonization of equations
+UNIT: 'ETC'
+TITLE: 'Horizontal'
+LABEL: '107.9M'
+BLOCK: 2.71828182846
 
 ---
 
