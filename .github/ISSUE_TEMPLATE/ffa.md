@@ -5,6 +5,7 @@ crypto: 'ETC'
 title: 'Fusion'
 labels: '107.9M'
 assignees:"2.71828182846"
+
 ---
 
 # Financial-Fusion-Anatomy - FFA 
